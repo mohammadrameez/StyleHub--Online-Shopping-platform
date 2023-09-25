@@ -14,28 +14,32 @@ In this project, I've developed an e-commerce website named StyleHub, specializi
 
 # Screenshots
 
-**landing page**
++ **landing page**
     
   ![1](https://github.com/mohammadrameez/StyleHub--Online-Shopping-platform/assets/144389509/f23c7ac8-1b82-4fce-91b7-369bf8db7bca)
 
 
-**New Arrivals**
+
++ **New Arrivals**
     
   ![2](https://github.com/mohammadrameez/StyleHub--Online-Shopping-platform/assets/144389509/3172b149-c07b-45a7-8aec-96430e7a16ad)
 
+
   
-**Collections**
++ **Collections**
     
   ![3](https://github.com/mohammadrameez/StyleHub--Online-Shopping-platform/assets/144389509/ebbb5021-c18d-45ce-856a-e98fa804b3f1)
   ![4](https://github.com/mohammadrameez/StyleHub--Online-Shopping-platform/assets/144389509/012e5646-f5f9-4417-82fb-c00a8571248e)
 
+
   
-**Trending Page**
++ **Trending Page**
 
   ![5](https://github.com/mohammadrameez/StyleHub--Online-Shopping-platform/assets/144389509/77bf7414-357c-4110-b08c-63b88780a773)
 
+
   
-**Premium Subscription & Contact Details**
++ **Premium Subscription & Contact Details**
     
   ![6](https://github.com/mohammadrameez/StyleHub--Online-Shopping-platform/assets/144389509/b0315c32-16a2-47ff-896a-a759ea2505a7)
 
