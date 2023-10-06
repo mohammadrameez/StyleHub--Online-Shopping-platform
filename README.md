@@ -12,7 +12,7 @@ Style Hub is your go-to online fashion destination, offering a wide range of clo
        + Users can rate the products.
        + The user can add products to the favorite cart.
 
-
+ 
 # Screenshots
 
 + **landing page**
