@@ -41,7 +41,3 @@ Style Hub is your go-to online fashion destination, offering a wide range of clo
   ![6](https://github.com/mohammadrameez/StyleHub--Online-Shopping-platform/assets/144389509/b0315c32-16a2-47ff-896a-a759ea2505a7)
 
  
-
-
-
-
